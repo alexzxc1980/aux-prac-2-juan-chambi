@@ -39,3 +39,10 @@ Abrir http://localhost:8080/swagger-ui/index.html. La especificación JSON está
 `controller` recibe las solicitudes HTTP; `dto` define los datos de entrada y salida; `service` implementa el CRUD; `model` representa el libro.
 
 Los datos se pierden al detener la aplicación, tal como requiere esta práctica.
+
+## Evidencias
+
+- [Endpoints en Swagger](evidencias/p2-swagger.png)
+- [Consulta HTTP 200 desde Swagger](evidencias/p2-get-200.png)
+- [CRUD, validaciones y errores](evidencias/p2-crud.png)
+
